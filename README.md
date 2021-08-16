@@ -1,5 +1,5 @@
 ### Hello World! I'm Serena 👋🏽
-💁🏽 About Me 
+💁🏽 All About Me 
 
 • 🤔 Interested in UI/UX and full stack development 
 
