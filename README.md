@@ -1,4 +1,4 @@
-### Hello World! I'm Serena 👋
+### Hello World! I'm Serena 👋🏽
 💁🏽 About Me 
 
 • 🤔 Interested in UI/UX and full stack development 
