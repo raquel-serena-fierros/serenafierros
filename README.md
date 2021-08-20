@@ -19,7 +19,7 @@
 
 • 🌐 HTML | CSS | SASS | Bootstrap | Node.js | React.js | Angular
 
-• 🔧 Git | Selenium
+• 🔧 Git | Selenium | Docker
 
 
 
