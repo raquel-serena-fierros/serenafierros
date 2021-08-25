@@ -5,7 +5,7 @@
 
 • 🎓 B.S. in Computer Science from ASU 21' 😈 🔱
 
-• 🌱 Learning more about JavaScript libraries + frameworks, and open source
+• 🌱 Learning more about JavaScript libraries + frameworks, and PHP
 
 • 💅🏽 Active Member of Girls Who Code
 
