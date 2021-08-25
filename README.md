@@ -15,9 +15,9 @@
 
 🛠 Tech Stack
 
-• 💻 Java | Python | C++ | C# | C | JavaScript | MATLAB | MySQL
+• 💻 Java | Python | C++ | C | JavaScript | MATLAB | MySQL | PHP
 
-• 🌐 HTML | CSS | SASS | Bootstrap | Node.js | React.js | Angular
+• 🌐 HTML | CSS | SASS | Bootstrap | Node.js | React.js | Next.js | Angular
 
 • 🔧 Git | Selenium | Docker
 
